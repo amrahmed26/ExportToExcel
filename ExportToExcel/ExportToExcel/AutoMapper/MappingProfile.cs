@@ -8,7 +8,7 @@ namespace AuotMapper
         public MappingProfile()
         {
             CreateMap<Employee, EmployeeViewModel>()
-                .ForMember(dest => dest.HiringDate, src => src.MapFrom(src => src.HiringDate.ToString("mm.dd.yyyy")))
+                .ForMember(dest => dest.HiringDate, src => src.MapFrom(src => src.HiringDate.ToString("MM.dd.yyyy")))
                  .ReverseMap();
             
                  

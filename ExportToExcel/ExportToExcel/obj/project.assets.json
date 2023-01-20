@@ -2911,11 +2911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.Net projects\\ExportToExcel\\ExportToExcel\\ExportToExcel.csproj",
+      "projectUniqueName": "F:\\.Net projects\\Github\\ExportToExcel\\ExportToExcel\\ExportToExcel\\ExportToExcel.csproj",
       "projectName": "ExportToExcel",
-      "projectPath": "F:\\.Net projects\\ExportToExcel\\ExportToExcel\\ExportToExcel.csproj",
+      "projectPath": "F:\\.Net projects\\Github\\ExportToExcel\\ExportToExcel\\ExportToExcel\\ExportToExcel.csproj",
       "packagesPath": "C:\\Users\\eg\\.nuget\\packages\\",
-      "outputPath": "F:\\.Net projects\\ExportToExcel\\ExportToExcel\\obj\\",
+      "outputPath": "F:\\.Net projects\\Github\\ExportToExcel\\ExportToExcel\\ExportToExcel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

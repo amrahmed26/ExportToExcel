@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrQO/vLJGV9yJMldVDpyBmCcBQvNLoHhCOJw13CMx0jxvFIlQpKLjU4LEtroDPhVuGhPn3fIKCOOqKbVrSNvjw==",
+  "dgSpecHash": "5FhLeUU9WBU+HK2BHWqOnh5VAHlEgApFVR6VYtIVeJSp1p9d8v2LQLC6KLKcMQDZcskdTLiVi0q6CQg35lqT2Q==",
   "success": true,
-  "projectFilePath": "F:\\.Net projects\\ExportToExcel\\ExportToExcel\\ExportToExcel.csproj",
+  "projectFilePath": "F:\\.Net projects\\Github\\ExportToExcel\\ExportToExcel\\ExportToExcel\\ExportToExcel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eg\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\eg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
